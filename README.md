@@ -1,4 +1,4 @@
-# Lean Fish
+# Resume
 ### About Me
 
 - Nickname: Lean Fish
