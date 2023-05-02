@@ -20,3 +20,10 @@
 - Code: <https://github.com/topics/ishou>
 - Show：
 ![home](https://raw.githubusercontent.com/leanfish2011/ishou-resource/gh-pages/img/home.jpg)
+
+#### eblog
+- A easy blog for personal
+- More information : <https://leanfish2011.github.io/eblog-resource/>
+- Code: <https://github.com/leanfish2011/eblog-resource/tree/gh-pages>
+- Show：
+![home](https://raw.githubusercontent.com/leanfish2011/eblog-resource/main/img/index.jpg)
