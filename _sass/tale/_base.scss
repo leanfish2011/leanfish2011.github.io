@@ -64,3 +64,8 @@ img {
 td {
   vertical-align: top;
 }
+
+::selection {
+  background: #ff6700;
+  color: #fff;
+}

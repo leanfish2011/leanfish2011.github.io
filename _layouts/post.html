@@ -4,20 +4,21 @@ layout: default
 
 <div class="post">
 
-  <h2 class="post-title">{{ page.title }}</h2>
+  <h3 class="post-title">{{ page.title }}</h3>
   <div class="post-line"></div>
 
   <div class="post-info">
-    <span>Written by</span>
+    <!-- <span>Written by</span>
     {% if page.author %}
         {{ page.author }}
     {% else %}
         {{ site.author.name }}
-    {% endif %}
+    {% endif %} -->
 
     {% if page.date %}
-      <br>
-      <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+      <!-- <br>
+      <span>on&nbsp;</span> -->
+      <time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
     {% endif %}
   </div>
   
