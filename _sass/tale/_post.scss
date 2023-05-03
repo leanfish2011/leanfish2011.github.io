@@ -1,11 +1,10 @@
 .post {
-  padding: 1rem 0;
-
   &-info {
     color: $default-tint;
     font-family: $serif-secondary;
     letter-spacing: 0.5px;
     text-align: center;
+    font-size: 0.8rem;
 
     span {
       font-style: italic;
@@ -23,7 +22,7 @@
   &-line {
     border-top: 0.1rem solid #ff6700;
     display: block;
-    margin: 0 auto 1rem;
+    margin: 0 auto 0.5rem;
     width: 10rem;
   }
 

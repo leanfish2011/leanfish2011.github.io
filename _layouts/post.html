@@ -8,21 +8,18 @@ layout: default
   <div class="post-line"></div>
 
   <div class="post-info">
-    <!-- <span>Written by</span>
-    {% if page.author %}
-        {{ page.author }}
-    {% else %}
-        {{ site.author.name }}
-    {% endif %} -->
-
     {% if page.date %}
-      <!-- <br>
-      <span>on&nbsp;</span> -->
       <time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
     {% endif %}
   </div>
   
   {{ content }}
+
+  {% if page.tags %}
+    {% for tag in page.tags %}
+      <span class="tag-code">{{ tag }}</span>
+    {% endfor %}
+  {% endif %}
 </div>
 
 {% if page.comments %}
@@ -39,3 +36,17 @@ layout: default
 
   <a href="#" class="top">Top</a>
 </div>
+
+<style scoped>
+  .tag-code {
+    font-family: 'Roboto Mono', Monaco, courier, monospace;
+    font-size: 0.8em;
+    display: inline-block;
+    background-color: #f8f8f8;
+    color: #e96900;
+    padding: 3px 5px;
+    margin: 0 2px 5px 0;
+    border-radius: 2px;
+    white-space: nowrap;
+}
+</style>
