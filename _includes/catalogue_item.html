@@ -3,9 +3,9 @@
 <div>
   <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
     <h1 class="catalogue-title">{{ post.title }}</h1>
+    <div class="catalogue-line"></div>
   </a>
-  <div class="catalogue-line"></div>
-  
+
   {% if include.sticky == 'true' %}
   <span class="catalogue-pinned">置顶 &middot;</span>
   {% endif %}

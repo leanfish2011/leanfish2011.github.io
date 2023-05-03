@@ -57,17 +57,13 @@ footer,
     &:hover,
     &:focus {
       opacity: 1;
+      border-bottom: 3px solid #ff6700;
     }
   }
 
   a {
     color: $default-color;
     font-family: $sans-serif;
-
-    &:hover,
-    &:focus {
-      border-bottom: 3px solid #ff6700;
-    }
   }
 }
 
