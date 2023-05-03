@@ -10,8 +10,8 @@ permalink: /about/
 
 ### 联系我
 - 邮箱：leanfish2011@163.com
-- github：[leanfish2011](https://github.com/leanfish2011/)
-- 作品：[作品介绍](https://github.com/leanfish2011/leanfish2011.github.io/blob/main/README.md)
+- github：<a href="https://github.com/leanfish2011" target ="_blank">leanfish2011</a>
+- 作品：<a href="https://github.com/leanfish2011/leanfish2011.github.io/blob/main/README.md" target ="_blank">作品介绍</a>
 
 ### 关于博客
     和大多人一样，都渴望在互联网这个大世界中拥有自己的一片天地  
