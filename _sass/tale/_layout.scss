@@ -52,9 +52,11 @@ footer,
     &:last-child {
       padding-right: 0;
     }
+  }
 
-    &:hover,
-    &:focus {
+  li {
+    a:hover,
+    a:focus {
       border-bottom: 3px solid #ff6700;
     }
   }
@@ -62,7 +64,6 @@ footer,
   a {
     color: $default-color;
     font-family: $sans-serif;
-
   }
 }
 

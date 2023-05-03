@@ -13,9 +13,7 @@
   <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
 
   {% if post.tags %}
-    {% for tag in post.tags %}
-      <span class="tag-code">{{ tag[0] }}</span>
-    {% endfor %}
+    <span class="tag-code">{{ post.tags }}</span>
   {% endif %}
 
   <p>
