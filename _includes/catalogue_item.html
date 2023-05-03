@@ -7,9 +7,16 @@
   </a>
 
   {% if include.sticky == 'true' %}
-  <span class="catalogue-pinned">置顶 &middot;</span>
+    <span class="catalogue-pinned">置顶 &middot;</span>
   {% endif %}
+
   <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
+
+  {% if post.tags %}
+    {% for tag in post.tags %}
+      <span class="tag-code">{{ tag[0] }}</span>
+    {% endfor %}
+  {% endif %}
 
   <p>
     {% if post.excerpt_separator %}
@@ -20,3 +27,17 @@
   </p>
 
 </div>
+
+<style scoped>
+  .tag-code {
+    font-family: 'Roboto Mono', Monaco, courier, monospace;
+    font-size: 0.8em;
+    display: inline-block;
+    background-color: #f8f8f8;
+    color: #e96900;
+    padding: 3px 5px;
+    margin: 0 2px 5px 0;
+    border-radius: 2px;
+    white-space: nowrap;
+}
+</style>

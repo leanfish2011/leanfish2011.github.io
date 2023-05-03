@@ -21,12 +21,14 @@
     color: $default-tint;
     font-family: $serif-secondary;
     letter-spacing: .5px;
+    font-size: 0.8rem;
   }
 
   &-time {
     color: $default-tint;
     font-family: $serif-secondary;
     letter-spacing: .5px;
+    font-size: 0.8rem;
   }
 
   &-title {
@@ -40,7 +42,7 @@
 
   &-line {
     @include transition(all .3s ease-out);
-    border-bottom: .2rem solid $default-shade;
+    border-bottom: .2rem solid #ff6700;
     display: block;
     width: 2rem;
   }
