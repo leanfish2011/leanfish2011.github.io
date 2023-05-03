@@ -12,7 +12,7 @@
     }
 
     &-line {
-      border-top: 0.4rem solid #ff6700;
+      border-top: 0.4rem solid $default-shade;
       display: block;
       margin: 0 auto 3rem;
       width: 4rem;
@@ -67,7 +67,7 @@
 
     &-line {
       @include transition(all 0.3s ease-out);
-      border-top: 0.1rem solid $default-shade;
+      border-top: 0.1rem solid #ff6700;
       display: block;
       width: 0;
     }
