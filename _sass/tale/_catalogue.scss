@@ -1,4 +1,7 @@
 .catalogue {
+  width: 1000px;
+  margin: 30px auto;
+
   &-item {
     border-bottom: 1px solid $grey-2;
     color: $default-color;
