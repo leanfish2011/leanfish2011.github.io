@@ -57,13 +57,17 @@ footer,
     &:hover,
     &:focus {
       opacity: 1;
-      background: #ff6700;
     }
   }
 
   a {
     color: $default-color;
     font-family: $sans-serif;
+
+    &:hover,
+    &:focus {
+      border-bottom: 3px solid #ff6700;
+    }
   }
 }
 
@@ -90,4 +94,12 @@ footer {
     color: $default-color;
     font-size: .8rem;
   }
+}
+
+.logo {
+  background: url("/assets/log.jpg");
+  background-size: cover;
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
 }
