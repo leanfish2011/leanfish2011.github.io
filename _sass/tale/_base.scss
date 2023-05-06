@@ -1,3 +1,4 @@
+// 全局样式
 * {
   @include box-sizing;
   line-height: 1.5;
@@ -68,4 +69,17 @@ td {
 ::selection {
   background: #ff6700;
   color: #fff;
+}
+
+// 首页文章列表catalogue.html、文章详情post.html页面用到标签样式
+.tag-code {
+  font-family: 'Roboto Mono', Monaco, courier, monospace;
+  font-size: 0.8em;
+  display: inline-block;
+  background-color: #f8f8f8;
+  color: #e96900;
+  padding: 3px 5px;
+  margin: 0 2px 5px 0;
+  border-radius: 2px;
+  white-space: nowrap;
 }
