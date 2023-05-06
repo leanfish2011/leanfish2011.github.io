@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "关于"
-permalink: /about/
+permalink: /about
 ---
 
 ### 简介

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "工具"
-permalink: /tool/
+permalink: /tool
 ---
 
 ### <a href="https://leanfish2011.github.io/WebPhotoshop-Simple" target ="_blank">WebPhotoshop</a>
