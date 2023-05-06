@@ -4,6 +4,9 @@ title: "工具"
 permalink: /tool
 ---
 
+<h3 class="post-title">{{ page.title }}</h3>
+<div class="post-line"></div>
+
 ### <a href="https://leanfish2011.github.io/WebPhotoshop-Simple" target ="_blank">WebPhotoshop</a>
 在线绘图工具。由作者本人研发
 
