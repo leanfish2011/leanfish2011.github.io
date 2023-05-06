@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "工具"
 permalink: /tool/
 ---
