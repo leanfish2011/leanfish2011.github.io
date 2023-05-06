@@ -4,9 +4,9 @@ title: "归档"
 permalink: /tags
 ---
 
+<h3 class="post-title">{{ page.title }}</h3>
+<div class="post-line"></div>
 <div class="tags">
-  <h3 class="post-title">{{ page.title }}</h3>
-  <div class="post-line"></div>
   <div class="tags-clouds">
     {% for tag in site.tags %}
     <a href="#{{ tag[0] }}">{{ tag[0] }}</a>
