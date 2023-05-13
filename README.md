@@ -4,10 +4,11 @@
 ## 启用个人静态博客
 ### 创建项目
 首先需要创建一个和github账号相同的项目，例如我的github账号为：https://github.com/leanfish2011
-那就需要创建一个名称为：leanfish2011.github.io的项目，且设置为public
+那就需要创建一个名称为：**leanfish2011.github.io** 的项目，且设置为public
 
 ### 创建初始页
-在leanfish2011.github.io项目下创建一个index.html页面，可以随便写写内容，提交，稍等再访问https://leanfish2011.github.io，就可以看到index.html的内容，网站就搭建完成了。
+在leanfish2011.github.io项目下创建一个index.html页面，可以随便写写内容，提交，稍等再访问 https://leanfish2011.github.io，
+就可以看到index.html的内容，网站就搭建完成了。
 
 ## 美化
 可以选择一个主题，可以将我的博客 https://github.com/leanfish2011/leanfish2011.github.io
