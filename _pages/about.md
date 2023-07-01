@@ -12,6 +12,9 @@ permalink: /about
 - 邮箱：leanfish2011@163.com
 - github：<a href="https://github.com/leanfish2011" target ="_blank">leanfish2011</a>
 - 作品：<a href="https://leanfish2011.github.io/leanfish2011" target ="_blank">作品介绍</a>
+- 微信公众号：
+  
+  ![微信公众号](https://raw.githubusercontent.com/leanfish2011/data/main/img/o_gongzhonghao.jpg)
 
 ### 关于博客
     和大多人一样，都渴望在互联网这个大世界中拥有自己的一片天地  
