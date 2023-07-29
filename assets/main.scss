@@ -3,6 +3,6 @@
 # 引入main.scss即可，main.scss引入了tale.scss文件，而tale.scss引入了tale下的所有文件，下面都是css样式
 ---
 
-@import 'tale';
+// @import 'tale';
 
-// @import 'talemin';
+@import 'talemin';
