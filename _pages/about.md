@@ -15,7 +15,7 @@ permalink: /about
 - 作品：<a href="https://leanfish2011.github.io/leanfish2011" target ="_blank">作品介绍</a>
 - 微信公众号：
   
-  ![微信公众号](https://cdn.jsdelivr.net/gh/leanfish2011/data@main/img/o_gongzhonghao.jpg)
+  ![微信公众号](https://raw.githubusercontent.com/leanfish2011/data/main/img/o_gongzhonghao.jpg)
 
 ### 关于博客
     尝试了很多博客平台，也自建了博客平台，最终还是选择了免费的托管平台：github pages + Jekyll，简洁、方便、功能强大。
