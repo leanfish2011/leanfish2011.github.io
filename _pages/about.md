@@ -18,6 +18,6 @@ permalink: /about
   ![微信公众号](https://raw.githubusercontent.com/leanfish2011/data/main/img/o_gongzhonghao.jpg)
 
 ### 关于博客
-    尝试了很多博客平台，也自建了博客平台，最终还是选择了免费的托管平台：github pages + Jekyll，简洁、方便、功能强大。
+尝试了很多博客平台，也自建了博客平台，最终还是选择了免费的托管平台：github pages + Jekyll，简洁、方便、功能强大。
 
-    博客主要是自己各种学习的总结、感悟等
+博客主要是自己各种学习的总结、感悟等
