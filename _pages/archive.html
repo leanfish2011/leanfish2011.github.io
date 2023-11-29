@@ -5,7 +5,10 @@ permalink: /archive
 ---
 <h3 class="post-title">{{ page.title }}</h3>
 <div class="post-line"></div>
+{% assign count = 1 %}
+<p>共计文章：{{ count }}篇</p>
 {% for post in site.posts %}
+    {% assign count = count | plus: 1 %}
     {% capture currentyear %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% if currentyear != year %}
         {% unless forloop.first %}
