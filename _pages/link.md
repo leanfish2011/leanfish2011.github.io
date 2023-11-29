@@ -11,3 +11,4 @@ permalink: /link
 * <a href="https://demochen.com" target ="_blank">特立独行的异类</a>
 * <a href="https://www.skyue.com" target ="_blank">拾月</a>
 * <a href="https://harttle.land" target ="_blank">Harttle</a>
+* <a href="https://1900.live" target ="_blank">只是玩玩  Thoughts, stories and ideas.</a>
