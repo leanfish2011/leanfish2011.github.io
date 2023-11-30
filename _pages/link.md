@@ -13,3 +13,4 @@ permalink: /link
 * <a href="https://harttle.land" target ="_blank">Harttle</a>
 * <a href="https://1900.live" target ="_blank">只是玩玩  Thoughts, stories and ideas.</a>
 * <a href="https://blog.fooleap.org" target ="_blank">Fooleap's Blog</a>
+* <a href="https://ajioy.cn" target ="_blank">Ajioy's World</a>
