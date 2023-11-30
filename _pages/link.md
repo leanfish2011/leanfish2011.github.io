@@ -12,3 +12,4 @@ permalink: /link
 * <a href="https://www.skyue.com" target ="_blank">拾月</a>
 * <a href="https://harttle.land" target ="_blank">Harttle</a>
 * <a href="https://1900.live" target ="_blank">只是玩玩  Thoughts, stories and ideas.</a>
+* <a href="https://blog.fooleap.org" target ="_blank">Fooleap's Blog</a>
