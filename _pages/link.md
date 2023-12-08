@@ -15,3 +15,4 @@ permalink: /link
 * <a href="https://blog.fooleap.org" target ="_blank">Fooleap's Blog</a>
 * <a href="https://ajioy.cn" target ="_blank">Ajioy's World</a>
 * <a href="https://macshuo.com" target ="_blank">MacTalk-池建强的随想录</a>
+* <a href="https://greatdk.com" target ="_blank">王登科-DK博客</a>
