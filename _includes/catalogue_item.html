@@ -10,7 +10,7 @@
     <span class="catalogue-pinned">置顶 &middot;</span>
   {% endif %}
 
-  <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%-d %B %Y" }}</time>
+  <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%Y-%m-%d" }}</time>
 
   {% if post.tags %}
     {% for tag in post.tags %}
