@@ -17,3 +17,4 @@ permalink: /link
 * <a href="https://macshuo.com" target ="_blank">MacTalk-池建强的随想录</a>
 * <a href="https://greatdk.com" target ="_blank">王登科-DK博客</a>
 * <a href="https://firewood.news" target ="_blank">积薪-博客汇总</a>
+* <a href="http://www.tanglib.com" target ="_blank">唐库学习-电子书网站，提供世界名著的中英双语对照朗读</a>
